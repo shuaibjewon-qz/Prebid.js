@@ -8,6 +8,7 @@
     "test": "gulp test",
     "lint": "gulp lint"
   },
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "https://github.com/prebid/Prebid.js.git"
